@@ -36,8 +36,8 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=llav3ji2019&show_icons=true&locale=en&layout=compact" alt="llav3ji2019" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kirill06344&show_icons=true&locale=en&layout=compact" alt="Kirill06344" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llav3ji2019&show_icons=true&locale=en" alt="llav3ji2019" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kirill06344&show_icons=true&locale=en" alt="Kirill06344" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=llav3ji2019&" alt="llav3ji2019" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kirill06344&" alt="Kirill06344" /></p>
