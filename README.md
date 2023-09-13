@@ -1,6 +1,6 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-<h1 align="center">Hey Everyone 👋, I'm Pavel Emelyanov</h1>
-<h3 align="center">A passionate Back-End Developer</h3>
+<h1 align="center">Hey Everyone 👋, I'm Kirill Bazhenov</h1>
+<h3 align="center">A Back-End Developer</h3>
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=llav3ji2019&label=Profile%20views&color=0e75b6&style=flat" alt="llav3ji2019" /> </p>
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://t.me/uspekh_zavisit_ot_tebya" target="blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></a>
+<a href="https://t.me/kirill06344" target="blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
